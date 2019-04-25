@@ -1,0 +1,4 @@
+#Thu Apr 25 11:13:52 EDT 2019
+base.0=C\:\\Users\\joshu\\OneDrive\\KetteringWork\\Spring_2019\\CE-450_Lab\\Lab3\\android-fundamentals-starter-apps-v2-master\\SimpleCalc\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
